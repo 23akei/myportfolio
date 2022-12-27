@@ -1,4 +1,4 @@
-baseURL: "https://23akei.github.io/myportfolio"
+baseURL: "https://23akei.github.io/"
 languageCode: "en-us"
 title: "23akei's Profile"
 theme: hugo-profile
