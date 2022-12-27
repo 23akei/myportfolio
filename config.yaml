@@ -354,3 +354,5 @@ params:
   # List pages like blogs and posts
   listPages:
     disableFeaturedImage: false
+
+  canonifyURLs: true
