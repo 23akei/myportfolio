@@ -24,16 +24,21 @@ markup:
 
 Menus:
   main:
+    - identifier: publication
+      name: Publication
+      title: Publications
+      url: /publication
+      weight: 1
     - identifier: blog
       name: Blog
       title: Blog posts
       url: /blogs
-      weight: 1
+      weight: 2
     - identifier: gallery
       name: Gallery
       title: Blog posts
       url: /gallery
-      weight: 2
+      weight: 3
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -341,9 +346,9 @@ params:
 
   footer:
     recentPosts:
-      path: "blogs"
+      path: "publication"
       count: 3
-      title: Recent Posts
+      title: Recent Publications
       enable: true
       disableFeaturedImage: false
     socialNetworks:
