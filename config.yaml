@@ -5,6 +5,8 @@ theme: hugo-profile
 
 canonifyURLs: true
 
+enableInlineShortcodes: true
+
 outputs:
   home:
     - "HTML"
@@ -34,11 +36,6 @@ Menus:
       title: Blog posts
       url: /blogs
       weight: 2
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 3
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -190,6 +187,8 @@ params:
         date: "Jan 2022 - present"
         content: |
           Developing a web service of crowdsourcing: [Crowd4U](https://crowd4u.org/).
+          Let's perform tasks from this banner!
+          {{% crowd4u-task %}}
           I have done the introduction of OpenAPI and clean architecture and fix bugs.
           From Sep 2022 to Apr 2023, I had been engaged in this project as a part-time staff of University of Tsukuba.
       - job: "Programmer"
