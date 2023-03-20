@@ -1,6 +1,6 @@
 baseURL: "https://23akei.github.io/myportfolio"
 languageCode: "en-us"
-title: "23akei's Profile"
+title: "23akei"
 theme: hugo-profile
 
 canonifyURLs: true
@@ -55,8 +55,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "23akei's portfolio"
-  description: Nice portfolio.
+  # title: "23akei"
+  # description: Nice portfolio.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/favicon.png"
 
@@ -104,7 +104,7 @@ params:
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    brandName: "Tomoya Kanda's Profile" # Brand name for the brand | default is the title variable
+    # brandName: "Tomoya Kanda's Profile" # Brand name for the brand | default is the title variable
     disableSearch: true
     menus:
       disableAbout: false
@@ -116,27 +116,27 @@ params:
 
   # Hero
   hero:
-    enable: false
+    enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/hero.svg
+    title: "Tomoya."
+    subtitle: "I am a resercher(student) and a programmer."
+    # content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    # image: /images/hero.svg
     button:
       enable: true
       name: "Resume"
-      url: "#"
-      download: true
+      url: "#about"
+      download: false
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/23akei
         - icon: fab fa-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://twitter.com/kanzaki_klis
+      # customIcons:
+      #   - icon: /fav.png
+      #     url: "https://example.com"
 
   # About
   about:
@@ -144,8 +144,9 @@ params:
     title: "About Me"
     image: "/face.jpg"
     content: |-
+      I am Tomoya Kanda.
       I'm a member of the [fusioncomplab](https://fusioncomplab.org) (student).
-      I'm intersted in Human Computer Interaction (HCI), especially Human-AI Interaction.
+      I'm intersted in Human Computer Interaction (HCI), especially Human-AI Interaction and its framework.
       My research papers are shown in [Publications](/publication).
 
       In addition to research, I'm also engaged in web application development and desktop application development as a programmer.
@@ -166,6 +167,7 @@ params:
         - "Docker"
         - "Linux"
         - "Node.js"
+        - "PHP"
 
   # Experience
   experience:
