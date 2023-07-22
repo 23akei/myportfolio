@@ -162,12 +162,14 @@ params:
         - "PyTorch"
         - "scikit-learn"
         - "Flask"
+        - "FastAPI"
         - "Golang"
         - "AWS"
         - "Docker"
         - "Linux"
         - "Node.js"
         - "PHP"
+        - "Laravel"
 
   # Experience
   experience:
