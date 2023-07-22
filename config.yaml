@@ -116,7 +116,7 @@ params:
 
   # Hero
   hero:
-    enable: true
+    enable: false
     intro: "Hi, my name is"
     title: "Tomoya."
     subtitle: "I am a resercher(student) and a programmer."
