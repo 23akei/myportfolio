@@ -145,12 +145,14 @@ params:
     image: "/face.jpg"
     content: |-
       I am Tomoya Kanda.
-      I'm a member of the [fusioncomplab](https://fusioncomplab.org) (student).
+      I'm a master student at School of Informatics, University of Tsukuba.
+      And I'm a member of the [fusioncomplab](https://fusioncomplab.org) (student).
       I'm intersted in Human Computer Interaction (HCI), especially Human-AI Interaction and its framework.
       My research papers are shown in [Publications](/publication).
 
       In addition to research, I'm also engaged in web application development and desktop application development as a programmer.
       The jobs I have been engaged in are listed in [Jobs](#experience).
+      The CV is [here](/CV_TomoyaKanda_en.pdf).
 
     skills:
       enable: true
