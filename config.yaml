@@ -152,7 +152,7 @@ params:
 
       In addition to research, I'm also engaged in web application development and desktop application development as a programmer.
       The jobs I have been engaged in are listed in [Jobs](#experience).
-      The CV is [here](/CV_TomoyaKanda_en.pdf).
+      The CV is [here](/CV_TomoyaKanda_en_20231129.pdf).
 
     skills:
       enable: true
@@ -314,7 +314,7 @@ params:
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/23akei
-      # linkedin: https://linkedin.com
+      linkedin: https://www.linkedin.com/in/tomoya-kanda-23akei/
       twitter: https://twitter.com/kanzaki_klis
       # instagram: https://instagram.com
       # facebook: https://facebook.com
