@@ -1,5 +1,5 @@
 ---
-title: "HCOMP2023 Demo"
+title: "HCOMP2023 Demo Track"
 date: 2023-09-11T23:17:10+09:00
 draft: false
 tags: ["publications"]

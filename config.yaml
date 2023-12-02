@@ -145,13 +145,14 @@ params:
     image: "/face.jpg"
     content: |-
       I am Tomoya Kanda.
-      I'm at Master's Programs in Informatics, University of Tsukuba.
-      And I'm a member of the [fusioncomplab](https://fusioncomplab.org) (student).
+      I'm a Master's Program student in Informatics at University of Tsukuba.
+      And I'm a member of the [fusioncomplab](https://fusioncomplab.org).
       I'm intersted in Human Computer Interaction (HCI), especially Human-AI Interaction and its framework.
       My research papers are shown in [Publications](/publication).
 
       In addition to research, I'm also engaged in web application development and desktop application development as a programmer.
       The jobs I have been engaged in are listed in [Jobs](#experience).
+
       The CV is [here](/CV_TomoyaKanda_en_20231129.pdf).
 
     skills:
@@ -163,6 +164,7 @@ params:
         - "Python"
         - "PyTorch"
         - "scikit-learn"
+        - "LangChain"
         - "Flask"
         - "FastAPI"
         - "Golang"
@@ -299,10 +301,10 @@ params:
 
   #Contact
   contact:
-    enable: false
+    enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    content: Please replace `[]` to appropriate symbols.
+    email: tomoya [dot] kanda [dot] 2022b [at] gmail [dot] com
     btnName: Mail me
 
   footer:
