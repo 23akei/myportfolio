@@ -189,6 +189,12 @@ params:
       #     name: "View the project"
       #     url: "https://example.com"
       #   content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      - job: "Internship"
+        company: "PR TIMES Corporation."
+        companyUrl: "https://prtimes.co.jp/"
+        date: "Apr 2024 - present"
+        content: |
+          Developping a web service PR TIMES ([link](https://prtimes.jp/)) as a programmer.
       - job: "Programmer"
         company: "FusionCompLab"
         companyUrl: "https://fusioncomplab.org/"
