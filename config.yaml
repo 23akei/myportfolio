@@ -192,7 +192,7 @@ params:
       - job: "Internship"
         company: "PR TIMES Corporation."
         companyUrl: "https://prtimes.co.jp/"
-        date: "Apr 2024 - present"
+        date: "Apr 2024 - Sep 2024"
         content: |
           Developping a web service PR TIMES ([link](https://prtimes.jp/)) as a programmer.
       - job: "Programmer"
