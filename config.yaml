@@ -310,7 +310,7 @@ params:
     enable: true
     # title: "Custom Name"
     content: Please replace `[]` to appropriate symbols.
-    email: tomoya [dot] kanda [dot] 2022b [at] gmail [dot] com
+    email: tomoya [dot] kanda [dot] jobhunt [at] gmail [dot] com
     btnName: Mail me
 
   footer:
